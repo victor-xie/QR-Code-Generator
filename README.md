@@ -17,7 +17,7 @@ First, I built a Polynomial class with relevant methods that, importantly, did n
 The rest of the functions calculate the message, generator, and remainder polynomials. The remainder polynomial is the final desired product, as it will become the error correction bits embedded into the QR code.
 
 ### Project Demo
-This GUI allows the user to input a string of text and generates a QR code that searches that text on the web. If a URL is inputted, as is shown in the last part of the demo, the user is taken to that website.
+This GUI allows the user to input a string of text and generates a QR code that searches that text on the web. If a URL is inputted, as is shown in the last part of the demo, the user is taken to that website. Feel free to try it out!
 
 https://user-images.githubusercontent.com/84203383/146310604-735dee17-8c92-4c24-a14e-f1bb6e00cbf7.mov
 
